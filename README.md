@@ -8,14 +8,14 @@ Originally implemented in tensorflow 1.14 by OapenAi :- ["openai/gpt-2"](https:/
 
 **Requirements**
 
-*  python >= 3.6
+*  python >= 3.8
 *  setuptools==41.0.1
 *  ftfy==5.6
 *  tqdm==4.32.1
 *  Click==7.0
 *  sentencepiece==0.1.83
-*  tensorflow-gpu==2.3.0
-*  numpy==1.16.4
+*  tensorflow==2.9.3
+*  numpy==1.22.0
 
 **Setup**
 
